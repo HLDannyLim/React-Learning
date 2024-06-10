@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2078ccb3-e48b-42de-9fd1-43822f4e30ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/REACT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/02-backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/src/main/java/com/luv2code/spring_boot_library/Entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/src/main/java/com/luv2code/spring_boot_library/SpringBootLibraryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/src/main/java/com/luv2code/spring_boot_library/config/MyDataRestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/src/main/java/com/luv2code/spring_boot_library/dao/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/src/test/java/com/luv2code/spring_boot_library/SpringBootLibraryApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React-Todo-Demo/react-todos" beforeDir="false" afterPath="$PROJECT_DIR$/../../../React-Todo-Demo/react-todos" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/spring-boot-library">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hJ99B5fnnZPwHNRF8M5WevgCaU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.SpringBootLibraryApplication.executor": "Run",
+    "Gradle.spring-boot-library [:SpringBootLibraryApplication.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lim_d/Downloads/fullstack-react-and-springboot (1)/fullstack-react-and-springboot",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lim_d\REACT\library\02-backend\spring-boot-library\spring-boot-library\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootLibraryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.spring_boot_library.SpringBootLibraryApplication" />
+      <module name="spring-boot-library.spring-boot-library.main~1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.spring_boot_library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="spring-boot-library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="spring-boot-library" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootLibraryApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2078ccb3-e48b-42de-9fd1-43822f4e30ec" name="Changes" comment="" />
+      <created>1717301158906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717301158906</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
